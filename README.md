@@ -32,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@TechnoDheeru" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
